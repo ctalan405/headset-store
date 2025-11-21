@@ -1,9 +1,9 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 
-import NavBar from './components/navbar';
-import Home from './components/home';
-import ViewMore from './components/viewmore';
+import NavBar from './components/NavBar';
+import Home from './components/Home';
+import ViewMore from './components/ViewMore';
 import Add from './components/Add';
 import Update from './components/update';
 import Login from './components/Login';
