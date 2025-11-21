@@ -1,0 +1,24 @@
+.footer {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 13px;        
+
+}
+  
+.footer .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+.footer p {
+    margin: 3px 0;
+}
+  
+
+.footer a:hover {
+    text-decoration: underline;
+}
+  
