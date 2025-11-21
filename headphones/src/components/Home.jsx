@@ -7,7 +7,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import axios from 'axios';
 import { useNavigate } from "react-router-dom";
-import CarouselComponent from "./carousel";
+import CarouselComponent from "./Carousel";
 import Footer from './footer';
 import './Home.css';
 
